@@ -34,7 +34,7 @@ rtsm_randomized_ts | yyyy-MM-ddThh:mm:ssZ | Timestamp of the status change (cons
 rtsm_discontinued | Yes / No |
 rtsm_discontinued_date | yyyy-MM-dd | | Local site date
 
-<aside class="info">Note: Some fields may be null or missing.</aside>
+<aside class="notice">Note: Some fields may be null or missing.</aside>
 
 ## Post an eConsent notification for a new Patient
 ```shell
